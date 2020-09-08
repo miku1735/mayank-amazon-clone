@@ -1,0 +1,85 @@
+.Header {
+  background-color: rgb(19, 25, 33);
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  top: 0;
+  position: sticky;
+  z-index: 100;
+}
+
+.Header__amazon__logo {
+  margin-top: 7px;
+  margin-left: 30px;
+  width: 120px;
+  height: 42px;
+}
+
+.Header__middle {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  margin-left: 50px;
+}
+.Header__middle > select {
+  height: 34px;
+  outline-color: rgb(254, 189, 105);
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+.Header__middle__textfield {
+  width: 100%;
+}
+.Header__middle__textfield > input {
+  outline-width: 0;
+  height: 13px;
+  padding: 10px;
+  width: 100%;
+  border: none;
+}
+
+.Header__middle > svg {
+  background-color: rgb(254, 189, 105);
+  padding: 5px;
+  height: 23px !important;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.Header__right {
+  display: flex;
+  align-items: center;
+}
+
+.Header__right__Buttons {
+  margin-left: 20px;
+  border: solid;
+  border-color: rgb(19, 25, 33);
+  padding: 8px;
+}
+
+.Header__right__Buttons:hover {
+  border: solid;
+  border-color: white;
+  border-radius: 5px;
+}
+
+.Header__right__Buttons > h5 {
+  color: white;
+}
+.Header__right__Buttons > h6 {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.Header__right__cart {
+  color: white;
+  margin-left: 20px;
+  padding: 2px;
+}
+
+.Header__right > h5 {
+  color: white;
+  margin-left: 3px;
+  margin-right: 20px;
+}
