@@ -73,13 +73,14 @@
 
 .Header__right__Buttons {
   margin-left: 20px;
-  border: solid;
+  border: solid 1px;
   border-color: rgb(19, 25, 33);
   padding: 8px;
 }
 
 .Header__right__Buttons:hover {
   border: solid;
+  border: solid 1px;
   border-color: white;
   border-radius: 5px;
 }
@@ -91,14 +92,18 @@
   color: rgba(255, 255, 255, 0.7);
 }
 
+.Header__right__cart__wrapper {
+  display: flex;
+  margin-right: 20px;
+  color: white;
+  align-items: center;
+}
+.Header__right__cart__wrapper > h5 {
+  pointer-events: none;
+}
+
 .Header__right__cart {
   color: white;
   margin-left: 20px;
   padding: 2px;
-}
-
-.Header__right > h5 {
-  color: white;
-  margin-left: 3px;
-  margin-right: 20px;
 }

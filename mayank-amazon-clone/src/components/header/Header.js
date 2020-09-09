@@ -4,6 +4,7 @@ import amazonLogo from "../../pictures/header/amazon-logo.png";
 import SearchIcon from "@material-ui/icons/Search";
 import ShoppingCartOutlinedIcon from "@material-ui/icons/ShoppingCartOutlined";
 import MenuOutlinedIcon from "@material-ui/icons/MenuOutlined";
+import { Link } from "react-router-dom";
 
 function Header() {
   const [categories, setCategories] = React.useState([
@@ -41,7 +42,9 @@ function Header() {
       {/* Left Header */}
       <div className="Header__left">
         <MenuOutlinedIcon />
-        <img className="Header__amazon__logo" alt="" src={amazonLogo}></img>
+        <Link to="/">
+          <img className="Header__amazon__logo" alt="" src={amazonLogo}></img>
+        </Link>
       </div>
 
       {/* Middle Header */}
@@ -63,10 +66,12 @@ function Header() {
 
       {/* Right Header */}
       <div className="Header__right">
-        <div className="Header__right__Buttons">
-          <h6>Hello,</h6>
-          <h5>Sign In</h5>
-        </div>
+        <Link to="login" style={{ textDecoration: "none" }}>
+          <div className="Header__right__Buttons">
+            <h6>Hello,</h6>
+            <h5>Sign In</h5>
+          </div>
+        </Link>
         <div className="Header__right__Buttons">
           <h6>Returns</h6>
           <h5>& Orders</h5>
@@ -75,8 +80,12 @@ function Header() {
           <h6>Your</h6>
           <h5>Prime</h5>
         </div>
-        <ShoppingCartOutlinedIcon className="Header__right__cart" />
-        <h5> {0} </h5>
+        <Link to="/cart" style={{ textDecoration: "none" }}>
+          <div className="Header__right__cart__wrapper">
+            <ShoppingCartOutlinedIcon className="Header__right__cart" />
+            <h5> {0} </h5>
+          </div>
+        </Link>
       </div>
     </div>
   );
