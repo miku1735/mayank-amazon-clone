@@ -3,6 +3,7 @@ import "./Header.css";
 import amazonLogo from "../../pictures/header/amazon-logo.png";
 import SearchIcon from "@material-ui/icons/Search";
 import ShoppingCartOutlinedIcon from "@material-ui/icons/ShoppingCartOutlined";
+import MenuOutlinedIcon from "@material-ui/icons/MenuOutlined";
 
 function Header() {
   const [categories, setCategories] = React.useState([
@@ -39,6 +40,7 @@ function Header() {
     <div className="Header">
       {/* Left Header */}
       <div className="Header__left">
+        <MenuOutlinedIcon />
         <img className="Header__amazon__logo" alt="" src={amazonLogo}></img>
       </div>
 

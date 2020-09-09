@@ -9,9 +9,28 @@
   z-index: 100;
 }
 
+.Header__left {
+  display: flex;
+  align-items: center;
+}
+.Header__left > svg {
+  font-size: xx-large;
+  color: white;
+  border: solid;
+  margin-left: 10px;
+  border-width: 1px;
+  padding: 5px;
+  border-color: rgb(19, 25, 33);
+}
+.Header__left > svg:hover {
+  border: solid;
+  border-color: white;
+  border-width: 1px;
+}
+
 .Header__amazon__logo {
   margin-top: 7px;
-  margin-left: 30px;
+  margin-left: 20px;
   width: 120px;
   height: 42px;
 }
