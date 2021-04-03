@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mayank-amazon-clone/precache-manifest.4cbc543e0f735ea5eb8adb76e5303602.js"
+  "/mayank-amazon-clone/precache-manifest.9cf0f6375671e10f7bcacd2bee86dd4d.js"
 );
 
 self.addEventListener('message', (event) => {

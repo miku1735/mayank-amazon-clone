@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mayank-amazon-clone/static/css/main.43a4057b.chunk.css",
-    "main.js": "/mayank-amazon-clone/static/js/main.d3c590a9.chunk.js",
-    "main.js.map": "/mayank-amazon-clone/static/js/main.d3c590a9.chunk.js.map",
+    "main.js": "/mayank-amazon-clone/static/js/main.a6ef753d.chunk.js",
+    "main.js.map": "/mayank-amazon-clone/static/js/main.a6ef753d.chunk.js.map",
     "runtime-main.js": "/mayank-amazon-clone/static/js/runtime-main.01d26f10.js",
     "runtime-main.js.map": "/mayank-amazon-clone/static/js/runtime-main.01d26f10.js.map",
     "static/js/2.e80de50b.chunk.js": "/mayank-amazon-clone/static/js/2.e80de50b.chunk.js",
     "static/js/2.e80de50b.chunk.js.map": "/mayank-amazon-clone/static/js/2.e80de50b.chunk.js.map",
     "index.html": "/mayank-amazon-clone/index.html",
-    "precache-manifest.4cbc543e0f735ea5eb8adb76e5303602.js": "/mayank-amazon-clone/precache-manifest.4cbc543e0f735ea5eb8adb76e5303602.js",
+    "precache-manifest.9cf0f6375671e10f7bcacd2bee86dd4d.js": "/mayank-amazon-clone/precache-manifest.9cf0f6375671e10f7bcacd2bee86dd4d.js",
     "service-worker.js": "/mayank-amazon-clone/service-worker.js",
     "static/css/main.43a4057b.chunk.css.map": "/mayank-amazon-clone/static/css/main.43a4057b.chunk.css.map",
     "static/js/2.e80de50b.chunk.js.LICENSE.txt": "/mayank-amazon-clone/static/js/2.e80de50b.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.01d26f10.js",
     "static/js/2.e80de50b.chunk.js",
     "static/css/main.43a4057b.chunk.css",
-    "static/js/main.d3c590a9.chunk.js"
+    "static/js/main.a6ef753d.chunk.js"
   ]
 }
