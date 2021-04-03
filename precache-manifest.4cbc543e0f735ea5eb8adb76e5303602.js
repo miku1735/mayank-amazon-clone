@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "700b47aeedaad0365ea8bd04181221db",
+    "revision": "6500c072b7c533a1ced83594f94c97e8",
     "url": "/mayank-amazon-clone/index.html"
   },
   {
-    "revision": "cbd38ad536d25f3ef6bd",
+    "revision": "c81ab2926d79dabc02e5",
     "url": "/mayank-amazon-clone/static/css/main.43a4057b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mayank-amazon-clone/static/js/2.e80de50b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cbd38ad536d25f3ef6bd",
-    "url": "/mayank-amazon-clone/static/js/main.42635f4d.chunk.js"
+    "revision": "c81ab2926d79dabc02e5",
+    "url": "/mayank-amazon-clone/static/js/main.d3c590a9.chunk.js"
   },
   {
     "revision": "2b93768bd2d2e12529ff",
