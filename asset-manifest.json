@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/MayankAmazonClone/static/css/main.43a4057b.chunk.css",
-    "main.js": "/MayankAmazonClone/static/js/main.42635f4d.chunk.js",
-    "main.js.map": "/MayankAmazonClone/static/js/main.42635f4d.chunk.js.map",
-    "runtime-main.js": "/MayankAmazonClone/static/js/runtime-main.3405104a.js",
-    "runtime-main.js.map": "/MayankAmazonClone/static/js/runtime-main.3405104a.js.map",
-    "static/js/2.e80de50b.chunk.js": "/MayankAmazonClone/static/js/2.e80de50b.chunk.js",
-    "static/js/2.e80de50b.chunk.js.map": "/MayankAmazonClone/static/js/2.e80de50b.chunk.js.map",
-    "index.html": "/MayankAmazonClone/index.html",
-    "precache-manifest.a36219514141f630e0f437c493b009f3.js": "/MayankAmazonClone/precache-manifest.a36219514141f630e0f437c493b009f3.js",
-    "service-worker.js": "/MayankAmazonClone/service-worker.js",
-    "static/css/main.43a4057b.chunk.css.map": "/MayankAmazonClone/static/css/main.43a4057b.chunk.css.map",
-    "static/js/2.e80de50b.chunk.js.LICENSE.txt": "/MayankAmazonClone/static/js/2.e80de50b.chunk.js.LICENSE.txt",
-    "static/media/amazon-logo.png": "/MayankAmazonClone/static/media/amazon-logo.35fb9164.png"
+    "main.css": "/mayank-amazon-clone/static/css/main.43a4057b.chunk.css",
+    "main.js": "/mayank-amazon-clone/static/js/main.42635f4d.chunk.js",
+    "main.js.map": "/mayank-amazon-clone/static/js/main.42635f4d.chunk.js.map",
+    "runtime-main.js": "/mayank-amazon-clone/static/js/runtime-main.01d26f10.js",
+    "runtime-main.js.map": "/mayank-amazon-clone/static/js/runtime-main.01d26f10.js.map",
+    "static/js/2.e80de50b.chunk.js": "/mayank-amazon-clone/static/js/2.e80de50b.chunk.js",
+    "static/js/2.e80de50b.chunk.js.map": "/mayank-amazon-clone/static/js/2.e80de50b.chunk.js.map",
+    "index.html": "/mayank-amazon-clone/index.html",
+    "precache-manifest.4e82093d2a4d812e43405150b3a0f8ff.js": "/mayank-amazon-clone/precache-manifest.4e82093d2a4d812e43405150b3a0f8ff.js",
+    "service-worker.js": "/mayank-amazon-clone/service-worker.js",
+    "static/css/main.43a4057b.chunk.css.map": "/mayank-amazon-clone/static/css/main.43a4057b.chunk.css.map",
+    "static/js/2.e80de50b.chunk.js.LICENSE.txt": "/mayank-amazon-clone/static/js/2.e80de50b.chunk.js.LICENSE.txt",
+    "static/media/amazon-logo.png": "/mayank-amazon-clone/static/media/amazon-logo.35fb9164.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3405104a.js",
+    "static/js/runtime-main.01d26f10.js",
     "static/js/2.e80de50b.chunk.js",
     "static/css/main.43a4057b.chunk.css",
     "static/js/main.42635f4d.chunk.js"
