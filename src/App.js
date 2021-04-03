@@ -13,13 +13,13 @@ function App() {
         <Header />
         {/* <Login /> */}
         <Switch>
-          <Route path="/" exact>
+          <Route path="/mayank-amazon-clone" exact>
             <Home />
           </Route>
-          <Route path="/login">
+          <Route path="/mayank-amazon-clone/login">
             <Login />
           </Route>
-          <Route path="/cart">
+          <Route path="/mayank-amazon-clone/cart">
             <Cart/>
           </Route>
         </Switch>

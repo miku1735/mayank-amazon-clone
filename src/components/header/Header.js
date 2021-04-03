@@ -42,7 +42,7 @@ function Header() {
       {/* Left Header */}
       <div className="Header__left">
         <MenuOutlinedIcon />
-        <Link to="/">
+        <Link to="/mayank-amazon-clone">
           <img className="Header__amazon__logo" alt="" src={amazonLogo}></img>
         </Link>
       </div>
@@ -80,7 +80,7 @@ function Header() {
           <h6>Your</h6>
           <h5>Prime</h5>
         </div>
-        <Link to="/cart" style={{ textDecoration: "none" }}>
+        <Link to="/mayank-amazon-clone/cart" style={{ textDecoration: "none" }}>
           <div className="Header__right__cart__wrapper">
             <ShoppingCartOutlinedIcon className="Header__right__cart" />
             <h5> {0} </h5>
